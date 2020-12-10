@@ -1,0 +1,50 @@
+what operating system are you using ?
+what is the resolution of your tv ?
+can you post a screenshot ?
+what is the output of <unk> <unk> | grep <unk> ?
+what os are you using ?
+why do you want to do this ?
+what version of ubuntu are you using ?
+why would you want to do this ?
+what do you mean by <unk> ?
+what os are you trying to install ?
+what is the output of `apt-cache policy <unk> ?
+why do you want to use wine ?
+can you post the contents of <unk> ?
+what is the output of `ls -l <unk> ?
+why do you want to do this ?
+how did you install it ?
+what is your hardware ?
+why do you need to do this ?
+are you using a proxy server ?
+why do n't you just use <unk> instead of <unk> ?
+why do you want to do this ?
+why do you want to do this ?
+what do you mean by `` login '' ?
+why do you want to do this ?
+what distro are you using ?
+can you post a screenshot of the problem ?
+what operating system are you using ?
+what operating system are you using ?
+why do you want to do this ?
+which python version are you using ?
+why do you want to do this ?
+why would you want to do this ?
+what is the error message ?
+what is the output of `sudo apt-get install <unk> ?
+what is the make and model of the camera ?
+why do you want to do this ?
+why do n't you just download the iso from the iso ?
+are you using bash or bash ?
+are you sure you 're not using a firewall ?
+why would you want to do that ?
+can you post the output of `sudo fdisk -l` ?
+what is the output of `ls -l <unk> ?
+why do you want to do this ?
+what do you mean by `` <unk> '' ?
+why do you want to do this ?
+what os are you using ?
+why do you want to do this ?
+what operating system are you using ?
+why do you want to do this ?
+why do you want to do this ?

@@ -1,0 +1,50 @@
+do you have the latest drivers installed ?
+what version of excel are you using ?
+what is the output of `ls -l <unk> ?
+what is the output of <unk> <unk> <unk> ?
+do you have a usb keyboard ?
+what do you mean by `` not working '' ?
+what do you mean by `` it does n't work '' ?
+what version of windows are you using ?
+what is the output of <unk> <unk> ?
+what is the make and model of your laptop ?
+do you have the latest version of windows 10 installed ?
+can you ping the server from windows 7 machine ?
+what is the model of the router ?
+what version of chrome are you using ?
+what do you mean by `` not working '' ?
+are you sure you have the right power supply ?
+do you have <unk> installed ?
+are you using unity or gnome shell ?
+what is the output of `echo $ <unk> ?
+what do you mean by `` not working '' ?
+what is the output of `ls -l <unk> ?
+what do you mean by `` <unk> '' ?
+what is the output of `ls -l <unk> ?
+what do you mean by `` <unk> '' ?
+are you using a proxy server ?
+do you have the latest version of windows 7 installed ?
+what is the output of `ls -l <unk> ?
+what version of excel are you using ?
+what do you mean by `` windows 8 '' ?
+can you boot into safe mode ?
+do you have the latest drivers installed ?
+what do you mean by `` not working '' ?
+why do you want to do this ?
+what is the output of <unk> <unk> <unk> ?
+are you using the latest version of windows 7 ?
+what do you mean by `` remote desktop '' ?
+what is the output of `sudo apt-get install <unk> ?
+do you have the latest version of virtualbox installed ?
+what is the error you are getting when you try to log in ?
+what is the model of your wifi card ?
+can you boot into safe mode ?
+what is the error message ?
+what happens if you boot into safe mode ?
+what do you mean by `` not working '' ?
+how much ram do you have ?
+what do you mean by `` not working '' ?
+why do n't you just install the guest additions ?
+do you have an nvidia graphics card ?
+what operating system are you using ?
+are you trying to install ubuntu on windows or ubuntu ?

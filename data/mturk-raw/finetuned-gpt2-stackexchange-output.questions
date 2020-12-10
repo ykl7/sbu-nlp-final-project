@@ -1,0 +1,50 @@
+what are you trying to do? why don't you share your modifications? how do you know that you're not
+what is the output of `ls -l /usr/share/applications/gnome-workspaces`?
+what is the output of `cat /etc/apt/sources.list.d/lucid_repos
+what is the output of `sudo fdisk -l`? can you post the contents of your `/etc/f
+? what is the output of `ls -l /etc/resolv.conf`? is there any error message
+what is the output of `lspci -nnk | grep -a2 power`? what do you see?
+what's the output of `ls -l /var/log/auth.log`? are you logged in as
+what do you mean by changing the layout? are you using unity? gnome? kde? xfce4?
+what is the output of `lspci -nnk | grep -i 'bluetooth'| tail -1
+what is the output of `sudo fdisk -l /dev/sda1`? is there any error message?
+pswd`? what is the output of `ls -ld../test` and `ps -e `??
+? what is your question? why do you want to do this? are you looking for a specific bug report? or just
+-generic kernel : 3.4.0-1ubuntu2.04.1-amd64-linux-gnu-
+fa_irs? what do you mean by `` correct form ''? are you sure it's not a typo? or
+what is the output of `sudo dpkg-reconfigure -a`? what do you get when you run `
+what is the output of `ls -l /dev/sda1`? can you post a screenshot of what you
+what version of steam are you running? what is the output of `ls -l /usr/bin/steam`?
+what do you want to do with it? what are you trying to accomplish? how would you like it to be implemented?
+what do you want to do with that traffic? what is your question? is there a reason you are not using utility?
+what is the output of `sudo fdisk -l`? is there any error message? what do you mean by ``
+what do you mean by duplicating the application? why don't you just use the one you already have on your pc
+? what do you mean by `` switch ''? can you please explain more? why don't you just press the button
+? what is the output of `sudo apt-get install -f`? is there any reason why you don't
+me. what do you mean by `` windows boot ''? how did you install windows? what version of windows are you using
+? what is the output of `echo $ name`? do you get any error message? are you sure you're
+can you post the output of `ls -l /var/log/messages`? what do you get when you
+what is the output of `sudo apt-get -f install`? what do you get when you run `apt-
+what is the output of `ls -l /dev/sda1`? can you post the contents of /etc
+what graphics card do you have? what driver are you using? can you post the output of `xrandr`?
+what is the output of `lspci -nnk | tail -1`? can you post the contents of the
+what is the output of `ls -l /etc/default/gedit`? are you sure they're not
+what is the output of `ls -l /var/log/xorg.0.log | tail -1`
+what is the output of `ls -l /dev/sda1`? are you sure it's not a
+what is the output of `ls -l /path/to/file.zip`? are you sure you're
+what do you mean by `` more ram ''? how much ram does your system have? and what is the output of `
+? what do you get when you run `sudo apt-get update`? does it show up in `/etc/
+what do you get when you run `sudo apt-get install intel-lspci`? is there any error message
+what do you mean by `` notification ''? what is it that you want to do? is this a desktop or a server
+what is the output of `lsusb`? what are you trying to do? how did you create the usb file?
+what do you want to achieve? how did you install ubuntu? and what is your question? can you give more details
+can you post the output of `ls -l`? what is the content of that file? is it a file named
+what is the output of `ls -l /var/log/xorg.0.log`? are you sure
+could you please add more information to your question? what type of keyboard are you using? which version of gnome/unity
+. what is your graphics card? what driver are you using? which driver? how did you install it? where is the
+? what is the output of `sudo fdisk -l`? are you sure you're using the correct kernel?
+what is the output of `ls -l /usr/share/applications`? what are you trying to do
+can you please explain more? what is the purpose of this? why do you want to do that? how are you unlocking
+can you please add the output of `sudo fdisk -l` to your question? what do you mean by precise?
+what is the output of `lspci -nnk | grep -i static`? what does `dmesg
+what is the output of `sudo fdisk -l`? are you sure you're booting from usb? is

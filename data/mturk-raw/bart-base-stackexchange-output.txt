@@ -1,0 +1,50 @@
+which version of windows are you using ?
+what is your laptop model ?
+which version of windows are you using ?
+what is the output of `ls -l <unk> ?
+which version of firefox are you using ?
+why would you want to do that ?
+how did you install ubuntu ?
+what is the make and model of your computer ?
+what is your laptop model ?
+what version of ubuntu are you using ?
+do you have the latest bios installed ?
+what is the output of `apt-cache policy <unk> ?
+which ubuntu version are you using ?
+why do you think you need to do this ?
+what is the output of `ls -l <unk> ?
+are you using a proxy ?
+what is the output of `ls -l <unk> ?
+how did you install it ?
+why do you want to do this ?
+what terminal emulator are you using ?
+what is the output of `sudo fdisk -l` ?
+what is your question ?
+what version of word are you using ?
+what graphics card do you have ?
+what is the output of <unk> | grep <unk> ?
+why do you want to do this ?
+why do you want to do this ?
+what is the output of `ls -l <unk> ?
+what is the output of `apt-cache policy <unk> ?
+what is the output of <unk> | grep <unk> ?
+how did you install it ?
+how did you install it ?
+what version of word are you using ?
+why do you want to do this ?
+what is the output of `apt-cache policy <unk> ?
+are you sure you 're using <unk> ?
+do you have the latest bios installed ?
+why do you want to copy the file to the file ?
+what is the output of `cat <unk> ?
+what graphics card do you have ?
+how did you install it ?
+what is the output of `echo $ <unk> ?
+why do you want to do this ?
+what terminal emulator are you using ?
+what version of ubuntu are you using ?
+which version of ubuntu are you using ?
+do you have a swap partition ?
+how did you install it ?
+what is the output of `ls -l <unk> ?
+are you using a proxy ?

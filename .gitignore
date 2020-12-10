@@ -1,0 +1,12 @@
+models/*/*.pt
+models/bart.base
+fdata/
+*.history_clsp*
+*__pycache__*
+qsub/
+rao_embeddings/
+transformers/
+data/clarq
+data/Home_and_Kitchen
+data/askubuntu_unix_superuser
+*.DS_Store

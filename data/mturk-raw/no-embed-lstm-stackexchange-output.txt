@@ -1,0 +1,50 @@
+what do you mean by `` <unk> '' ?
+what is the output of `ls -l <unk> ?
+what is the output of `ls -l <unk> ?
+why do you want to do this ?
+why do you want to do this ?
+why do you want to do this ?
+why do you want to do this ?
+what is the output of `ls -l <unk> ?
+what version of ubuntu are you using ?
+why do you want to do this ?
+why do you want to do this ?
+why do you want to do this ?
+what is the output of `ls -l <unk> ?
+what is the output of `ls -l <unk> ?
+why do you want to do this ?
+what do you mean by `` <unk> '' ?
+what is the output of `ls -l <unk> ?
+what version of ubuntu are you using ?
+what do you mean by <unk> ?
+what is the model of your router ?
+why do you want to do this ?
+what is the model of your laptop ?
+why do you want to do this ?
+what is the output of `sudo fdisk -l` ?
+why do you want to do this ?
+are you using the same time ?
+why do you want to do this ?
+why do you want to do this ?
+are you sure you want to do this ?
+what is the output of `sudo apt-get install <unk> ?
+what is the model of your laptop ?
+what is the model of your router ?
+what do you mean by `` <unk> '' ?
+what is the output of `ls -l <unk> ?
+what is the output of `ls -l <unk> ?
+what do you mean by <unk> ?
+why do you want to do this ?
+what is the output of `sudo fdisk -l` ?
+what is the output of `ls -l <unk> ?
+are you sure you want to do this ?
+what is the output of <unk> ?
+what do you mean by <unk> ?
+why do you want to do this ?
+what is the output of `ls -l <unk> ?
+why do you want to do this ?
+are you sure you want to do this ?
+why do you want to do this ?
+what version of windows are you using ?
+what are you trying to accomplish ?
+what do you mean by `` <unk> '' ?
